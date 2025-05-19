@@ -1,0 +1,128 @@
+[
+  {
+    "user_id": "unknown",
+    "text": "Hello there! 👋 It's nice to meet you!",
+    "timestamp": 1747678963.5009623,
+    "rule_based_bot": false,
+    "ml_bot": true,
+    "final_is_bot": true,
+    "file": "chatbot_messages.json"
+  },
+  {
+    "user_id": "unknown",
+    "text": "What brings you here today? Please use the navigation below or ask me anything about ChatBot product.",
+    "timestamp": 1747678963.803946,
+    "rule_based_bot": false,
+    "ml_bot": true,
+    "final_is_bot": true,
+    "file": "chatbot_messages.json"
+  },
+  {
+    "user_id": "human",
+    "text": "Hello",
+    "timestamp": 1747679016.812482,
+    "rule_based_bot": false,
+    "ml_bot": false,
+    "final_is_bot": false,
+    "file": "chatbot_messages.json"
+  },
+  {
+    "user_id": "unknown",
+    "text": "Great to see you here!",
+    "timestamp": 1747679019.148293,
+    "rule_based_bot": false,
+    "ml_bot": false,
+    "final_is_bot": false,
+    "file": "chatbot_messages.json"
+  },
+  {
+    "user_id": "unknown",
+    "text": "What information are you looking for? Please use the navigation below or ask me anything about ChatBot product.",
+    "timestamp": 1747679019.4032362,
+    "rule_based_bot": false,
+    "ml_bot": true,
+    "final_is_bot": true,
+    "file": "chatbot_messages.json"
+  },
+  {
+    "user_id": "human",
+    "text": "How are you",
+    "timestamp": 1747679097.439082,
+    "rule_based_bot": false,
+    "ml_bot": false,
+    "final_is_bot": false,
+    "file": "chatbot_messages.json"
+  },
+  {
+    "user_id": "unknown",
+    "text": "Hi 👋! It's good to see you!",
+    "timestamp": 1747679100.2441874,
+    "rule_based_bot": false,
+    "ml_bot": true,
+    "final_is_bot": true,
+    "file": "chatbot_messages.json"
+  },
+  {
+    "user_id": "human",
+    "text": "💡 About ChatBot",
+    "timestamp": 1747679123.244401,
+    "rule_based_bot": false,
+    "ml_bot": false,
+    "final_is_bot": false,
+    "file": "chatbot_messages.json"
+  },
+  {
+    "user_id": "unknown",
+    "text": "ChatBot is a no-code platform that lets you build, test, and implement AI chatbots automatically without coding. Isn't that awesome?",
+    "timestamp": 1747679126.6070168,
+    "rule_based_bot": false,
+    "ml_bot": false,
+    "final_is_bot": false,
+    "file": "chatbot_messages.json"
+  },
+  {
+    "user_id": "unknown",
+    "text": "Would you like to learn how to create a great chatbot?",
+    "timestamp": 1747679129.8238497,
+    "rule_based_bot": false,
+    "ml_bot": false,
+    "final_is_bot": false,
+    "file": "chatbot_messages.json"
+  },
+  {
+    "user_id": "human",
+    "text": "💡 Best practices",
+    "timestamp": 1747679137.0951393,
+    "rule_based_bot": false,
+    "ml_bot": false,
+    "final_is_bot": false,
+    "file": "chatbot_messages.json"
+  },
+  {
+    "user_id": "unknown",
+    "text": "💡 Our Chatbot Best Practices Guide 📚 includes all essential tips to help you design successful chatbots for your business.",
+    "timestamp": 1747679140.29439,
+    "rule_based_bot": false,
+    "ml_bot": true,
+    "final_is_bot": true,
+    "file": "chatbot_messages.json"
+  },
+  {
+    "user_id": "unknown",
+    "text": "Chatbot Best Practices\nAll you need to know before you start buidling your chatbot.",
+    "timestamp": 1747679141.1791677,
+    "rule_based_bot": false,
+    "ml_bot": true,
+    "final_is_bot": true,
+    "file": "chatbot_messages.json"
+  },
+  {
+    "user_id": "human",
+    "text": "👈 Go back",
+    "timestamp": 1747679151.693878,
+    "rule_based_bot": false,
+    "ml_bot": false,
+    "final_is_bot": false,
+    "file": "chatbot_messages.json"
+  }
+]

@@ -5,10 +5,14 @@ from telethon import TelegramClient
 from telethon.tl.types import User
 from telethon.errors import UsernameNotOccupiedError, ChannelPrivateError, FloodWaitError
 import asyncio
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # === ⚙️ Конфігурація ===
-api_id = 26514301  # ← заміни на свій
-api_hash = '8b0a81e45f14b5282c4c3eeabe1411b4'  # ← заміни на свій
+api_id = os.getenv('API_ID') 
+api_hash = os.getenv('API_HASH')  
 session_name = 'telegram_session'
 output_dir = Path("telegram_exports")
 output_dir.mkdir(exist_ok=True)
@@ -30,7 +34,7 @@ def message_to_dict(message):
     }
 
 # === 🚀 Основна функція ===
-async def export_chat(chat_name: str, limit: int = 100):
+async def export_chat(chat_name: str, limit: int = 30):
     async with TelegramClient(session_name, api_id, api_hash) as client:
         print(f"🔍 Завантаження чату: {chat_name}")
 

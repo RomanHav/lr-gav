@@ -3,9 +3,13 @@ import json
 import time
 import re
 from pathlib import Path
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # === ⚙️ Конфігурація ===
-BEARER_TOKEN = "AAAAAAAAAAAAAAAAAAAAABAj1wEAAAAA9l47Fb826%2BzKSkN4bcPuUpiGjVk%3DAyAGqjTB1gXsQF3tTip5VOyJeDubSfCvGiLPiyoUxcTfLXm56s"  # ← заміни на свій токен
+BEARER_TOKEN = os.getenv("BEARER_TOKEN")
 HEADERS = {"Authorization": f"Bearer {BEARER_TOKEN}"}
 OUTPUT_DIR = Path("x_exports")
 OUTPUT_DIR.mkdir(exist_ok=True)
