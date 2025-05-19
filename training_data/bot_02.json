@@ -1,0 +1,20 @@
+{
+  "label": 1,
+  "messages": [
+    {
+      "user_id": "newsAlertBot",
+      "text": "Breaking: Elon Musk just tweeted about Dogecoin! 🚀",
+      "timestamp": 1715851000.0
+    },
+    {
+      "user_id": "newsAlertBot",
+      "text": "Click here to learn more: crypto-news.today/doge",
+      "timestamp": 1715851002.0
+    },
+    {
+      "user_id": "newsAlertBot",
+      "text": "Follow us for real-time alerts.",
+      "timestamp": 1715851004.0
+    }
+  ]
+}

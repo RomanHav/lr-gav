@@ -1,0 +1,20 @@
+{
+  "label": 1,
+  "messages": [
+    {
+      "user_id": "promo_bot",
+      "text": "🔥 Get 1000 followers instantly! Click here: bit.ly/followboost",
+      "timestamp": 1715850000.0
+    },
+    {
+      "user_id": "promo_bot",
+      "text": "💰 Cheap crypto deals. Don't miss out!",
+      "timestamp": 1715850060.0
+    },
+    {
+      "user_id": "promo_bot",
+      "text": "Join our airdrop now!",
+      "timestamp": 1715850120.0
+    }
+  ]
+}

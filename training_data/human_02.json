@@ -1,0 +1,20 @@
+{
+  "label": 0,
+  "messages": [
+    {
+      "user_id": "maria.k",
+      "text": "Just finished reading the article you shared — super interesting!",
+      "timestamp": 1715862000.0
+    },
+    {
+      "user_id": "maria.k",
+      "text": "Here’s another good one on the same topic: nytimes.com/...",
+      "timestamp": 1715862900.0
+    },
+    {
+      "user_id": "maria.k",
+      "text": "Thanks for sharing 🤗",
+      "timestamp": 1715863100.0
+    }
+  ]
+}
